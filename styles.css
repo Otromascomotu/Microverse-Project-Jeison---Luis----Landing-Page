@@ -1,39 +1,35 @@
-
+/* Hello I'm Jeison Martinez I was here, we used live share to code along*/
 #nav-bar {
-    position: sticky;
-    top: 0;
-    width: 100%;
+  position: sticky;
+  top: 0;
+  width: 100%;
 }
 
 #card {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 40px 40px 40px 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 40px 40px 40px;
 }
 .card-text {
-    color: white;
+  color: white;
 }
 
 .video__container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
 }
 
 #form {
-    display: flex;
-    justify-content: center;
-    padding-top: 20px;
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
 }
 
-
-
 @media (min-width: 768px) {
-    .video__container{
-        font-size: 1.75rem;
-    }
-
-
- }
+  .video__container {
+    font-size: 1.75rem;
+  }
+}
